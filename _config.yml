@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 2023_05_10_20_26_57_dragon_aegis.md
+  - README.md
